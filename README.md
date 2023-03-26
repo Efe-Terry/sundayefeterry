@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello , I'm Terry!<br><br><br><br><br>🔭 I am a computer science student!<br>🤝 I Love to provide solutions!<br>👯 I currently freelance and would love collaborations!<br><br>⚡ I love to travel..!
 
 
@@ -17,9 +16,6 @@ Hello , I'm Terry!<br><br><br><br><br>🔭 I am a computer science student!<br>�
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sundayefeterry&icon=8&color=8)](https://visitcount.itsvg.in)
