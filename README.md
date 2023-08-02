@@ -1,4 +1,4 @@
-Hello , I'm Terry!<br><br><br><br><br>🔭 I am an software engineer<br>🔭 Python * Django developer<br>🔭 aws solutions architect<br>🔭 DevOps engineer<br>🤝 I Love to provide solutions!<br>👯 I love to travel..!
+Hello , I'm Terry!<br><br><br>🔭 I am an software engineer<br>🔭 Python * Django developer<br>🔭 AWS solutions architect<br>🔭 DevOps engineer<br>🤝 I Love to provide solutions!<br>👯 Loves to travel..!
 
 
 # 💻 Tech Stack:
