@@ -1,4 +1,4 @@
-Hello , I'm Terry!<br><br><br><br><br>🔭 I am an aws solutions architect and software engineer<br>🤝 I Love to provide solutions!<br>👯 I currently freelance and would love collaborations!<br><br>⚡ I love to travel..!
+Hello , I'm Terry!<br><br><br><br><br>🔭 I am an software engineer<br>🔭 Python * Django developer<br>🔭 aws solutions architect<br>🔭 DevOps engineer<br>🤝 I Love to provide solutions!<br>👯 I love to travel..!
 
 
 # 💻 Tech Stack:
